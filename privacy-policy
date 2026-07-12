@@ -1,0 +1,119 @@
+Privacy Policy
+The Sixth Element: Fitness RPG · Last updated: 12 July 2026
+
+This Privacy Policy explains how the mobile application The Sixth Element: Fitness RPG ("the App") handles your information. The App is a personal habit and fitness tracker. It is developed and maintained by an individual developer ("we", "us"). If you have any questions, contact us at wookey420@gmail.com.
+
+Summary
+
+The App is local-first: your data is stored only on your device.
+There is no user account and no server operated by us. We never receive or store your data.
+We use no analytics, no advertising, and no tracking, and we do not sell or share your data.
+The App contacts a few public third-party services only to look up information you request (product barcodes, food search, map tiles, moon phase). These queries do not include your personal data or any account identity.
+You can delete all of your data at any time by using the in-app reset or by uninstalling the App.
+Data stored on your device
+
+All of the following is saved locally on your device (in the app's local storage) and is never transmitted to us:
+
+Activity logs, skills, experience points, levels, ranks, streaks and achievements.
+Habits and habit history.
+Body statistics you choose to enter (e.g. height, weight over time, and a gender setting used for figures).
+Nutrition entries, meals and food library.
+GPS run/route data recorded with the run tracker.
+Optional voice notes you record during a run (stored as audio files on your device).
+Avatar customisation, reminders and planned items.
+Backup files: the App periodically saves an automatic backup, and lets you export a manual backup, as JSON files. Automatic backups are written to your device's Documents folder; a manual export is passed to the system share sheet so you can save it wherever you choose.
+Because this data lives on your device, it is your responsibility to keep it safe. Resetting the App from within it, or uninstalling the App, removes the data held inside the App itself. However, backup files are not removed automatically: any automatic backups saved to your Documents folder, and any manual backups you have exported or shared elsewhere, remain on your device (or wherever you saved them) until you delete those files yourself using your device's file manager.
+
+Device permissions and why they are used
+
+Location (fine & coarse) — used only when you actively track a run, to record your route. Routes are stored on your device and are not sent to us.
+Camera — used to scan product barcodes for nutrition lookup. Images are processed on-device and are not stored or transmitted.
+Microphone — used only if you choose to record a voice note during a run. Recordings are stored on your device.
+Notifications & exact alarms — used to deliver the reminders you set at the times you choose.
+Calendar (read & write) — used only if you enable calendar sync, to create/update your planned items in a dedicated calendar on your device.
+Internet — used only to contact the third-party lookup and map services listed below.
+Third-party services
+
+The App sends limited, non-personal queries to the following public services. We do not send your name, account, location history, or any on-device data to them. As with any internet request, these services receive standard technical information such as your IP address, governed by their own privacy policies.
+
+Open Food Facts — barcode and food search. Data sent: a barcode number or search term. Privacy policy
+USDA FoodData Central — food search. Data sent: a search term. Privacy policy
+UPCItemDB — barcode fallback lookup. Data sent: a barcode number. Privacy policy
+FarmSense — moon phase lookup. Data sent: a calendar date. Website
+OpenStreetMap — map tiles for the run tracker. Data sent: map tile coordinates for the area you are viewing. Privacy policy
+ArcGIS / Esri World Imagery — satellite map tiles. Data sent: map tile coordinates for the area you are viewing. Privacy policy
+Children
+
+The App is not directed to children under 13, and we do not knowingly collect any information from children.
+
+Data retention and deletion
+
+We do not hold any of your data, so there is nothing for us to retain or delete on our side. Data held inside the App stays on your device until you delete it by resetting or uninstalling the App. Backup files (automatic backups in your Documents folder, or manual backups you exported or shared) are kept separately and remain until you delete them yourself.
+
+Changes to this policy
+
+We may update this policy from time to time. Material changes will be reflected by updating the "Last updated" date at the top of this page.
+
+Contact
+
+Questions about this policy: wookey420@gmail.com
+
+Polityka prywatności
+The Sixth Element: Fitness RPG · Ostatnia aktualizacja: 12 lipca 2026
+
+Niniejsza Polityka prywatności wyjaśnia, jak aplikacja mobilna The Sixth Element: Fitness RPG („Aplikacja") postępuje z Twoimi informacjami. Aplikacja jest osobistym trackerem nawyków i aktywności fizycznej, tworzonym i utrzymywanym przez niezależnego dewelopera („my"). W razie pytań napisz na wookey420@gmail.com.
+
+W skrócie
+
+Aplikacja działa lokalnie: Twoje dane są przechowywane wyłącznie na Twoim urządzeniu.
+Nie ma konta użytkownika ani naszego serwera. Nigdy nie otrzymujemy ani nie przechowujemy Twoich danych.
+Nie używamy żadnej analityki, reklam ani śledzenia i nie sprzedajemy ani nie udostępniamy Twoich danych.
+Aplikacja łączy się z kilkoma publicznymi usługami zewnętrznymi tylko po to, by wyszukać informacje, o które prosisz (kody kreskowe produktów, wyszukiwanie jedzenia, kafelki map, faza księżyca). Zapytania te nie zawierają Twoich danych osobowych ani tożsamości konta.
+W każdej chwili możesz usunąć wszystkie swoje dane, korzystając z resetu w Aplikacji lub odinstalowując Aplikację.
+Dane przechowywane na Twoim urządzeniu
+
+Wszystkie poniższe dane są zapisywane lokalnie na Twoim urządzeniu (w pamięci lokalnej aplikacji) i nigdy nie są przesyłane do nas:
+
+Wpisy aktywności, umiejętności, punkty doświadczenia, poziomy, rangi, serie i osiągnięcia.
+Nawyki i ich historia.
+Dane ciała, które zdecydujesz się wpisać (np. wzrost, waga w czasie, ustawienie płci używane do sylwetek).
+Wpisy żywieniowe, posiłki i biblioteka produktów.
+Dane GPS biegów/tras zarejestrowane trackerem biegów.
+Opcjonalne notatki głosowe nagrane podczas biegu (przechowywane jako pliki audio na Twoim urządzeniu).
+Personalizacja awatara, przypomnienia i zaplanowane pozycje.
+Pliki kopii zapasowych: Aplikacja okresowo zapisuje automatyczną kopię zapasową oraz umożliwia ręczny eksport kopii — jako pliki JSON. Kopie automatyczne są zapisywane w folderze Documents Twojego urządzenia; ręczny eksport jest przekazywany do systemowego arkusza udostępniania, więc możesz zapisać go w wybranym miejscu.
+Ponieważ dane te znajdują się na Twoim urządzeniu, to Ty odpowiadasz za ich bezpieczeństwo. Zresetowanie Aplikacji z jej poziomu lub odinstalowanie Aplikacji usuwa dane przechowywane wewnątrz samej Aplikacji. Jednak pliki kopii zapasowych nie są usuwane automatycznie: kopie automatyczne zapisane w folderze Documents oraz kopie ręczne wyeksportowane lub udostępnione w innym miejscu pozostają na Twoim urządzeniu (lub tam, gdzie je zapisałeś), dopóki sam ich nie usuniesz w menedżerze plików.
+
+Uprawnienia urządzenia i po co są używane
+
+Lokalizacja (dokładna i przybliżona) — używana tylko, gdy aktywnie śledzisz bieg, aby zapisać Twoją trasę. Trasy są przechowywane na Twoim urządzeniu i nie są do nas wysyłane.
+Aparat — używany do skanowania kodów kreskowych produktów przy wyszukiwaniu wartości odżywczych. Obraz jest przetwarzany na urządzeniu i nie jest przechowywany ani przesyłany.
+Mikrofon — używany tylko, jeśli zdecydujesz się nagrać notatkę głosową podczas biegu. Nagrania są przechowywane na Twoim urządzeniu.
+Powiadomienia i dokładne alarmy — używane do dostarczania ustawionych przez Ciebie przypomnień o wybranych godzinach.
+Kalendarz (odczyt i zapis) — używany tylko, jeśli włączysz synchronizację kalendarza, aby tworzyć/aktualizować zaplanowane pozycje w dedykowanym kalendarzu na Twoim urządzeniu.
+Internet — używany wyłącznie do łączenia się z usługami wyszukiwania i mapami wymienionymi poniżej.
+Usługi zewnętrzne
+
+Aplikacja wysyła ograniczone, nieosobowe zapytania do następujących publicznych usług. Nie wysyłamy do nich Twojego imienia, konta, historii lokalizacji ani żadnych danych z urządzenia. Jak przy każdym żądaniu internetowym, usługi te otrzymują standardowe informacje techniczne, takie jak adres IP, zgodnie z ich własnymi politykami prywatności.
+
+Open Food Facts — kody kreskowe i wyszukiwanie jedzenia. Wysyłane dane: numer kodu kreskowego lub fraza wyszukiwania.
+USDA FoodData Central — wyszukiwanie jedzenia. Wysyłane dane: fraza wyszukiwania.
+UPCItemDB — zapasowe wyszukiwanie kodu kreskowego. Wysyłane dane: numer kodu kreskowego.
+FarmSense — faza księżyca. Wysyłane dane: data kalendarzowa.
+OpenStreetMap — kafelki map dla trackera biegów. Wysyłane dane: współrzędne kafelków dla oglądanego obszaru.
+ArcGIS / Esri World Imagery — satelitarne kafelki map. Wysyłane dane: współrzędne kafelków dla oglądanego obszaru.
+Dzieci
+
+Aplikacja nie jest skierowana do dzieci poniżej 13. roku życia i nie zbieramy świadomie żadnych informacji od dzieci.
+
+Przechowywanie i usuwanie danych
+
+Nie przechowujemy żadnych Twoich danych, więc po naszej stronie nie ma nic do zachowania ani usunięcia. Dane przechowywane wewnątrz Aplikacji pozostają na Twoim urządzeniu, dopóki nie usuniesz ich przez reset lub odinstalowanie Aplikacji. Pliki kopii zapasowych (automatyczne w folderze Documents lub ręczne, wyeksportowane bądź udostępnione) są przechowywane osobno i pozostają, dopóki sam ich nie usuniesz.
+
+Zmiany w polityce
+
+Możemy od czasu do czasu aktualizować tę politykę. Istotne zmiany będą odzwierciedlone przez aktualizację daty „Ostatnia aktualizacja" na górze strony.
+
+Kontakt
+
+Pytania dotyczące tej polityki: wookey420@gmail.com
